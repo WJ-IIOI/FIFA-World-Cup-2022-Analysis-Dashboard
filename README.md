@@ -4,7 +4,7 @@
 Welcome to my personal project for **FIFA World Cup 2022 dashboard**. It involves data cleaning, Excel formula creation, SQL analysis, Tableau visualization, and personal growth in data analysis and visualization technique, aiming to uncover the valuable insights and trends of the biggest tournament.
 
 The main tools I used through this exploratory Data Analysis project are **EXCEL**, **MySQL** and **Tableau**.
-* Tableau Dashboard: [Tableau public](https://public.tableau.com/app/profile/jia.wang3280/viz/FIFAWorldCup2022_16990814009590/Dashboard_1_1).
+* Tableau Visualization: [FIFA World Cup 2022 Dashboard](https://public.tableau.com/app/profile/jia.wang3280/viz/FIFAWorldCup2022_16990814009590/Dashboard_1_1).
 * Data source: [Kaggle](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-statistics) & [wikipedia](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup#Round_of_16).
 
 ## 2. Tableau Data Analysis Dashboard
@@ -40,16 +40,18 @@ Filtered players for each team, grouped by positions, and included information a
 ![Teams](image/teams.png) 
 
 ## 3. Conclusion & Personal Growth
-* 123
-* 123
-* 123
-* 123
+Through in-depth exploration of this project, I have gained tremendous growth and improvement in data analysis and visual presentation：
+* Performed data cleaning using MySQL and Excel to combine the multiple datasets for analysis
+* Created a high-quality interactive Tableau dashboard to visualize various statistics from the tournament
+* Utilized dynamic zone visibility to filter multiple datasets, enabling the visualization of various matches, players, and teams data 
+* Designed engaging charts with meaningful tooltips to illustrate the details of tournament statistics
 
 ## 4. Contact info
 Thank you for your time to review my project! 
-* Tableau Public: [Tableau Public Profile](https://public.tableau.com/app/profile/jia.wang3280/vizzes)
-* Linkedln: [Jia Wang Data Analyst](https://www.linkedin.com/in/jiawang-data-analyst/)
-* Website: 
+* Visualization Dashboard: [FIFA World Cup 2022 Dashboard](https://public.tableau.com/app/profile/jia.wang.analyst/viz/FIFAWorldCup2022_16990814009590/Dashboard_1_1)
+* Linkedln: [Data Analyst @Jia Wang](https://www.linkedin.com/in/jiawang-data-analyst/)
+* Tableau Profile: [Tableau Public Profile](https://public.tableau.com/app/profile/jia.wang3280/vizzes)
+* Website: [Jia Wang - Portfolio](https://wj-iioi.github.io/JiaWang-portfolio/)
 
 
 
